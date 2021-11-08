@@ -1,7 +1,7 @@
 ### Bem-vindo!👋 Eu sou Mateus
 
 
-- 🏢 Sou estudande de Ciências da Computação na - UEPB
+- 🏢 Sou estudande de Ciências da Computação na UEPB
 - 💻 Estudando no momento HTML, CSS e JS
 - 💭 Buscando sempre novos desafios!
 #
