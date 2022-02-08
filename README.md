@@ -2,7 +2,7 @@
 
 
 - 🏢 Sou estudande de Ciências da Computação na UEPB
-- 💻 Estudando no momento HTML, CSS e JS
+- 💻 Estudando no momento HTML, CSS, JS junto ao Framework Vue.js
 - 💭 Buscando sempre novos desafios!
 #
 
