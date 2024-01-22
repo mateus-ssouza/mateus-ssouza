@@ -35,21 +35,31 @@
 	    <td> <b>📱Front-end</b></td>
 	    <td>
 		    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
+		    <img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
 		    <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 		    <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
+		    <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 	    </td>
     </tr>
     <tr>
 	   <td> <b>⌨️ Back-end</b></td>
 	     <td width="600px">
-		    <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-		    <img alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-		    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=java&logoColor=white" />
-		    <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-		    <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style==flat-square&logo=mysql&logoColor=white" />
-		    <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-		    <img alt="sqlserver" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+		     <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+		     <img alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+		     <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+		     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+		     <img alt="express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+		     <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=java&logoColor=white" />
+		     <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+	    </td>
+    </tr>
+    <tr>
+	   <td> <b>📦 Banco de dados</b></td>
+	     <td width="600px">
+		     <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style==flat-square&logo=mysql&logoColor=white" />
+		     <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+		     <img alt="sqlserver" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+		     <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 	    </td>
     </tr>
     <tr>
