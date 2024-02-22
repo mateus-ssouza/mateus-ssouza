@@ -3,7 +3,7 @@
 
 - 🎓 Sou estudande de Ciências da Computação na UEPB
 - 👨🏽‍💻 Desenvolvedor Back-End em formação
-- 💻 Estudando no momento .NET
+- 💻 Estudando no momento .NET e node.js
 - 💭 Buscando sempre novos desafios!
 
 ##
