@@ -1,9 +1,9 @@
 ### Bem-vindo!👋 Eu sou Mateus
 
 
-- 🎓 Sou estudande de Ciências da Computação na UEPB
+- 🎓 Graduado em Ciências da Computação na UEPB
 - 👨🏽‍💻 Desenvolvedor Back-End em formação
-- 💻 Estudando no momento .NET e node.js
+- 💻 Estudando no momento .NET, Spring Boot e Node.js
 - 💭 Buscando sempre novos desafios!
 
 ##
