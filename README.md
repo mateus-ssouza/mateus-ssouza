@@ -2,8 +2,8 @@
 
 
 - 🎓 Graduado em Ciências da Computação na UEPB
-- 👨🏽‍💻 Desenvolvedor Back-End em formação
-- 💻 Estudando no momento .NET, Spring Boot e Node.js
+- 👨🏽‍💻 Desenvolvedor Back-End
+- 💻 Principais tecnologias: Node.js e Spring Boot
 - 💭 Buscando sempre novos desafios!
 
 ##
@@ -45,13 +45,13 @@
     <tr>
 	   <td> <b>⌨️ Back-end</b></td>
 	     <td width="600px">
-		     <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-		     <img alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
 		     <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 		     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 		     <img alt="express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 		     <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=java&logoColor=white" />
 		     <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+		     <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+		     <img alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
 	    </td>
     </tr>
     <tr>
@@ -69,19 +69,22 @@
 		    <img alt="selenium" src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" />
 		    <img alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
 		    <img alt="cumcumber" src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
+		    <img alt="bugzilla" src="https://img.shields.io/badge/Bugzilla-CC0000?style=flat-square&logo=bugzilla&logoColor=white" />
 	    </td>
     </tr>
     <tr>
-	    <td> <b>🏷 Outros</b></td>
-	     <td >
-		    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-		    <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
-		    <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-		    <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-      <img alt="intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-      <img alt="vs" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-      <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+	  <td> <b>🏷 Outros</b></td>
+	     <td>
+    		<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+		<img alt="gitflow" src="https://img.shields.io/badge/GitFlow-888888?style=flat-square&logo=git&logoColor=white" />
+   		<img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+    		<img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    		<img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    		<img alt="minio" src="https://img.shields.io/badge/MinIO-00A1D6?style=flat-square&logo=minio&logoColor=white" />
+    		<img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+    		<img alt="azure-devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 	    </td>
+
     </tr>
   </tbody>
 </table>
