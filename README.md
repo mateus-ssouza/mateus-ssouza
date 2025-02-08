@@ -84,8 +84,7 @@
     		<img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
     		<img alt="azure-devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 	    </td>
-
-    </tr>
+   </tr>
   </tbody>
 </table>
 
